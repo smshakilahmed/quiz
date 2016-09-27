@@ -1,0 +1,24 @@
+{
+  "name": "reactquiez",
+  "version": "1.0.0",
+  "description": "this is a simple react quiez app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "quiez"
+  ],
+  "author": "s m shakil ahmed",
+  "license": "MIT",
+  "devDependencies":{
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*",
+    "webpack": "1.12.*"
+  },
+  "dependencies":{
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
